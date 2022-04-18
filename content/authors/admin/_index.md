@@ -1,12 +1,13 @@
 ---
 title: Chutian Jiang
-role: Professor of Artificial Intelligence
+role: PhD Canditate of Computational Media and Arts
 bio: My research interests include soft materials, haptic feedback and
   human-computer interaction.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human-Computer Interaction (HCI)
+  - Accessibility
+  - Soft Robotics
+  - and novel Haptic Feedback Techniques
 social:
   - icon: envelope
     icon_pack: fas
